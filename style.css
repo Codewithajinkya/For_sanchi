@@ -25,7 +25,7 @@ body {
   width: 100%;
   max-width: 400px;
   z-index: 10;
-  animation: fadeIn 1.5s ease-out forwards;
+  animation: fadeIn 8.5s ease-out forwards;
 }
 
 h1 {
