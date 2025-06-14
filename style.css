@@ -126,7 +126,7 @@ p {
   z-index: 1000;
   text-align: center;
   opacity: 0;
-  animation: popup-fade 8.5s forwards ease-in-out;
+  animation: popup-fade 9.5s forwards ease-in-out;
 }
 
 .popup h2 {
