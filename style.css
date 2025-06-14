@@ -25,7 +25,7 @@ body {
   width: 100%;
   max-width: 400px;
   z-index: 10;
-  animation: fadeIn 8.5s ease-out forwards;
+  animation: fadeIn 1.5s ease-out forwards;
 }
 
 h1 {
@@ -126,7 +126,7 @@ p {
   z-index: 1000;
   text-align: center;
   opacity: 0;
-  animation: popup-fade 1.5s forwards ease-in-out;
+  animation: popup-fade 8.5s forwards ease-in-out;
 }
 
 .popup h2 {
